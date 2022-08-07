@@ -15,16 +15,23 @@ Using Unsupervised Machine learning to predict Crytocurrency investment trends f
 
 ### Reducing Data Dimensions Using PCA
 
+![pcadfcomponents](https://user-images.githubusercontent.com/102183530/183299406-3b4717a9-0da4-4d57-87a7-fbcb5dd0829e.png)
+
+###### used PCA to reduce dimensions to three principal components
 
 ### Clustering Cryptocurrencies Using K-means
 
 ![Elbow Curve](https://user-images.githubusercontent.com/102183530/183298890-14f4e6ea-d019-4fd0-9306-d73cb167b21d.png)
+
+##### Using this image, chose a k=5 where the bend of the 'elbow' occurs.
 
 ![Del3Kmeansdf](https://user-images.githubusercontent.com/102183530/183299026-85b0e8ab-cc8b-4ba9-8813-b475e06392ed.png)
 
 ### Visualizing Cryptocurrencies Results
 
 ![d4scat3d](https://user-images.githubusercontent.com/102183530/183299037-c2b172be-e658-4c02-abe6-1c3fe493ef12.png)
+
+###### PCA data and clusters of classes predicted in the cryptocurrencies
 
 ![d4scatplot](https://user-images.githubusercontent.com/102183530/183299061-c6fb2663-fd8c-44ea-aab6-81d11f42cec4.png)
 
